@@ -1,5 +1,6 @@
-# **Hi there** 👋
-:books:
+# :v: **Hi, nice to see your.** # 
+Welcom to my page.
+I'm Antolii, Fullstack developer from Kyiv, Ukraine.
 + 1
 + 2
 + 3
@@ -27,7 +28,7 @@ ____
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anatoliy-Mostovoy&hide=handlebars,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anatoliy-Mostovoy&hide=handlebars,shell)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anatoliy-Mostovoy&hide=issues,contribs&show_icons=true&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anatoliy-Mostovoy&hide=issues,contribs&show_icons=true&&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Anatoliy-Mostovoy/Anatoliy-Mostovoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
