@@ -1,4 +1,4 @@
-# Hi there 👋
+# **Hi there** 👋
 ____
 
 <!--
@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+**bold**
+*italic*
+***tolik***
