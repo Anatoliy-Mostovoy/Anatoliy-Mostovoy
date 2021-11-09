@@ -3,23 +3,25 @@
 Welcom to my page.  
 I'm Antolii, Fullstack developer from Kyiv, Ukraine.
 
-My favourites tools: JavaScript, React, Nodejs. 
-+ 1
-+ 2
-+ 3
+My favourites tools:  
+[<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" height='42px'/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript 'Java Script') [<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" height='42px' />](https://reactjs.org/ 'React.js') [<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodeja" height='42px' />](https://nodejs.org/en/ 'Node.js')
   + 3.1
   + 3.2
 + [X] Done
+
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
  
 [peloundg LinkdIn]()
 
-![logo](https://cdn-icons-png.flaticon.com/512/174/174857.png)
+![logo](<img src="https://img.icons8.com/color/48/000000/sass.png"/>)
 
 ![gif](https://i.gifer.com/39Cg.gif)
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
 
 | **HTML** | CSS | JS | REACT | REDUX | NODEJS |
+
+[<img src="https://img.icons8.com/color/48/000000/sass.png" alt="html5" height='42px' />](https://en.wikipedia.org/wiki/HTML 'HTML5')
 ____
 # Heder 1
 ## Header 2
