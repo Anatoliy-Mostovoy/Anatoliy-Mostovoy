@@ -1,5 +1,12 @@
 # **Hi there** 👋
 ____
+# Heder 1
+## Header 2
+### Headre 3
+
+**bold**
+*italic*
+***tolik***
 
 <!--
 **Anatoliy-Mostovoy/Anatoliy-Mostovoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-**bold**
-*italic*
-***tolik***
