@@ -2,6 +2,8 @@
 
 Welcom to my page.  
 I'm Antolii, Fullstack developer from Kyiv, Ukraine.
+
+My favourites tools: JavaScript, React, Nodejs. 
 + 1
 + 2
 + 3
