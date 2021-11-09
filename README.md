@@ -13,7 +13,7 @@ My favourites tools: JavaScript, React, Nodejs.
  
 [peloundg LinkdIn]()
 
-![logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F61%2FHTML5_logo_and_wordmark.svg%2F512px-HTML5_logo_and_wordmark.svg.png&imgrefurl=https%3A%2F%2Fru.m.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3AHTML5_logo_and_wordmark.svg&tbnid=wCJpL9e2N8tIcM&vet=12ahUKEwjQ68Kmm4v0AhUJlaQKHVogBLkQMygAegUIARCwAQ..i&docid=piXC9BOjdy8BXM&w=512&h=512&q=html%20logo&hl=ru&ved=2ahUKEwjQ68Kmm4v0AhUJlaQKHVogBLkQMygAegUIARCwAQ)
+![logo](https://cdn-icons-png.flaticon.com/512/174/174857.png)
 
 ![gif](https://i.gifer.com/39Cg.gif)
 
