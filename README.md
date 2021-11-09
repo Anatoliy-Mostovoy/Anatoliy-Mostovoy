@@ -1,7 +1,7 @@
 # :v: **Hi, nice to see your!** # 
 
-## Welcom to my page. ##
-## I'm Antolii, Fullstack developer from Kyiv, Ukraine. ##
+Welcom to my page.  
+I'm Antolii, Fullstack developer from Kyiv, Ukraine.
 + 1
 + 2
 + 3
