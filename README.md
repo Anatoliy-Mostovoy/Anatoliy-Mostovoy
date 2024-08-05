@@ -1,7 +1,7 @@
 # :v: **Hi, nice to see your!** # 
 
 Welcom to my page.  
-I'm Antolii, Fullstack developer from Kyiv, Ukraine.
+I'm Antolii, backend (node.js) developer from Kyiv, Ukraine.
 
 *My favourites tools:*   
 [<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" height='42px'/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript 'Java Script')  [<img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodeja" height='42px'/>](https://nodejs.org/en/ 'Node.js')  [<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" height='42px' />](https://reactjs.org/ 'React.js')    
